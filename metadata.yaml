@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '40827'
     url: http://www.gutenberg.org/2009/agents/40827
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40792#Behind-the-Scenes-in-Warring-Germany
 gutenberg_issued: '2012-09-19'
 gutenberg_type: Text
 identifiers:
